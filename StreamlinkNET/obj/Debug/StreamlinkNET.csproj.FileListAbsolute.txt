@@ -1,0 +1,15 @@
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\bin\Debug\StreamlinkNET.exe.config
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\bin\Debug\StreamlinkNET.exe
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\bin\Debug\StreamlinkNET.pdb
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.csprojAssemblyReference.cache
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.Form1.resources
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.Properties.Resources.resources
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.csproj.GenerateResource.cache
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.csproj.CoreCompileInputs.cache
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.exe
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.pdb
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\bin\Debug\Interop.WMPLib.dll
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\Interop.WMPLib.dll
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\daniel.pastor\Documents\Streamlink_NET\StreamlinkNET\StreamlinkNET\obj\Debug\StreamlinkNET.csproj.ResolveComReference.cache
